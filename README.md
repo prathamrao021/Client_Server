@@ -20,9 +20,12 @@ cd your-repo-name
 ```
 
 ### To Run the project
-
+```bash
 python Server.py
-python Client.py 
+python Client.py
+```
 or
+```bash
 python Server.py <port_number>
 python Client.py <port_number>
+```
