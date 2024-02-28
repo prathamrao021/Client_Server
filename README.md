@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need to have Python installed on your machine. You can download Python from [here](https://www.python.org/downloads/).
+You need to have Python installed on your machine. You can download Python from [here](https://github.com/prathamrao021/Client_Server).
 
 ### Installing
 
