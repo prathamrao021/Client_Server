@@ -15,8 +15,8 @@ You need to have Python installed on your machine. You can download Python from 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/prathamrao021/Client_Server)
+cd Client_Server
 ```
 
 ### To Run the project
